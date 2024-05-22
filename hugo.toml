@@ -6,7 +6,7 @@ copyright = "© [Kieran Gordon](https://kgdn.xyz) 2024"
 paginate = 3
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
-languageCode = "en"
+languageCode = "en-us"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
