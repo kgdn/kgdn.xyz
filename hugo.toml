@@ -2,7 +2,7 @@ baseURL = "https://risotto.joeroe.io"
 theme = "risotto"
 title = "kgdn.xyz"
 author = "Kieran Gordon"
-copyright = "© [Kieran Gordon](https://kgdn.xyz)"
+copyright = "© [Kieran Gordon](https://kgdn.xyz) 2024"
 paginate = 3
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
@@ -26,6 +26,7 @@ palette = "gruvbox-dark"
 [params.about]
 title = "kieran gordon"
 description = "chronically sleepy programmer from edinburgh, scotland"
+logo = "images/profile.png"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
@@ -46,12 +47,6 @@ url = "https://www.linkedin.com/in/kieran-gordon-80829b258"
 
 [[menu.main]]
 
-name = "about"
-url = "/about/"
-weight = 1
-
-[[menu.main]]
-
 name = "posts"
 url = "/posts/"
 weight = 2
@@ -61,6 +56,17 @@ weight = 2
 name = "projects"
 url = "/projects/"
 weight = 3
+
+[[menu.main]]
+name = "now"
+url = "/now/"
+weight = 4
+
+[[menu.main]]
+name = "rss"
+url = "/index.xml"
+weight = 5
+
 
 [taxonomies] # used to define custom taxonomies, which can be used to categorize content
 tag = "tags"

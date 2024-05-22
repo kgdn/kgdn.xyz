@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on kgdn.xyz</title>
+    <link>https://risotto.joeroe.io/</link>
+    <description>Recent content in Home on kgdn.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© [Kieran Gordon](https://kgdn.xyz) 2024</copyright>
+    <lastBuildDate>Wed, 22 May 2024 16:08:58 +0100</lastBuildDate>
+    <atom:link href="https://risotto.joeroe.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Now</title>
+      <link>https://risotto.joeroe.io/now/</link>
+      <pubDate>Wed, 22 May 2024 20:00:08 +0100</pubDate>
+      <guid>https://risotto.joeroe.io/now/</guid>
+      <description>This is a now page which is a page that tells you what I&amp;rsquo;m up to right now.&#xA;Currently working on improving my dissertation project, Buffet, which is a web application that allows users to test various GNU/Linux distributions in a web browser. The project has already been submitted for assessment, but I&amp;rsquo;m continuing to work on it to improve the user experience and add new features.&#xA;It will be available on GitHub soon, under the permissive and open-source GNU Affero General Public License v3.</description>
+    </item>
+    <item>
+      <title>A Fresh Start</title>
+      <link>https://risotto.joeroe.io/posts/my-first-post/</link>
+      <pubDate>Wed, 22 May 2024 16:09:26 +0100</pubDate>
+      <guid>https://risotto.joeroe.io/posts/my-first-post/</guid>
+      <description>Alright, let&amp;rsquo;s do this one more time. Hello! I&amp;rsquo;m Kieran, and this is my blog. I had a blog before, hosted on this same domain, but I decided to start fresh. I&amp;rsquo;ve learned a lot since I started that blog, and I wanted to start anew with a fresh perspective. So, here we are. Let&amp;rsquo;s talk about what you can expect from this blog.&#xA;What to Expect Firstly, I&amp;rsquo;m going to be writing about a lot of different things.</description>
+    </item>
+  </channel>
+</rss>

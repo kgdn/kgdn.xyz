@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://risotto.joeroe.io/now/</loc>
+    <lastmod>2024-05-22T20:00:08+01:00</lastmod>
+  </url><url>
+    <loc>https://risotto.joeroe.io/projects/</loc>
+    <lastmod>2024-05-22T16:31:32+01:00</lastmod>
+  </url><url>
+    <loc>https://risotto.joeroe.io/posts/</loc>
+    <lastmod>2024-05-22T16:31:32+01:00</lastmod>
+  </url><url>
+    <loc>https://risotto.joeroe.io/posts/my-first-post/</loc>
+    <lastmod>2024-05-22T16:31:32+01:00</lastmod>
+  </url><url>
+    <loc>https://risotto.joeroe.io/categories/blog/</loc>
+    <lastmod>2024-05-22T16:31:32+01:00</lastmod>
+  </url><url>
+    <loc>https://risotto.joeroe.io/categories/</loc>
+    <lastmod>2024-05-22T16:31:32+01:00</lastmod>
+  </url><url>
+    <loc>https://risotto.joeroe.io/tags/first/</loc>
+    <lastmod>2024-05-22T16:31:32+01:00</lastmod>
+  </url><url>
+    <loc>https://risotto.joeroe.io/tags/</loc>
+    <lastmod>2024-05-22T16:31:32+01:00</lastmod>
+  </url><url>
+    <loc>https://risotto.joeroe.io/</loc>
+    <lastmod>2024-05-22T16:31:32+01:00</lastmod>
+  </url><url>
+    <loc>https://risotto.joeroe.io/series/</loc>
+  </url>
+</urlset>

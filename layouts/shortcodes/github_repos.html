@@ -1,0 +1,19 @@
+<style>
+  #github-repos li {
+    margin-bottom: 10px;
+  }
+</style>
+
+<script>
+  fetch("https://api.github.com/users/kgdn/repos")
+    .then((response) => response.json())
+    .then((data) => {
+      let output = "<ul>";
+      for (let i in data) {
+        output += `<li><a href="${data[i].html_url}">${data[i].name}</a>: ${data[i].description} (Language: ${data[i].language})</li>`;
+      }
+      output += "</ul>";
+      document.getElementById("github-repos").innerHTML = output;
+    });
+</script>
+<div id="github-repos">Loading...</div>
