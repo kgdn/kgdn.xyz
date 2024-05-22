@@ -47,26 +47,33 @@ url = "https://www.linkedin.com/in/kieran-gordon-80829b258"
 
 [[menu.main]]
 
-name = "posts"
-url = "/posts/"
-weight = 2
+    name = "posts"
+    url = "/posts/"
+    weight = 1
 
 [[menu.main]]
 
-name = "projects"
-url = "/projects/"
-weight = 3
+    name = "projects"
+    url = "/projects/"
+    weight = 2
 
 [[menu.main]]
-name = "now"
-url = "/now/"
-weight = 4
+
+    name = "github"
+    url = "https://github.com/kgdn"
+    weight = 3
 
 [[menu.main]]
-name = "rss"
-url = "/index.xml"
-weight = 5
 
+    name = "now"
+    url = "/now"
+    weight = 4
+
+[[menu.main]]
+
+    name = "rss"
+    url = "/index.xml"
+    weight = 5
 
 [taxonomies] # used to define custom taxonomies, which can be used to categorize content
 tag = "tags"
