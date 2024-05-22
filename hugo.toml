@@ -59,15 +59,9 @@ url = "https://www.linkedin.com/in/kieran-gordon-80829b258"
 
 [[menu.main]]
 
-    name = "github"
-    url = "https://github.com/kgdn"
-    weight = 3
-
-[[menu.main]]
-
     name = "rss"
     url = "/index.xml"
-    weight = 4
+    weight = 3
 
 [taxonomies] # used to define custom taxonomies, which can be used to categorize content
 tag = "tags"
