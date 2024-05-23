@@ -24,8 +24,8 @@ noindex = false
 palette = "gruvbox-dark"
 
 [params.about]
-title = "kieran gordon"
-description = "chronically sleepy programmer from edinburgh, scotland"
+title = "Kieran Gordon"
+description = "GNU/Linux enthusiast, software developer, and still a student, for now."
 logo = "images/profile.png"
 
 [[params.socialLinks]]

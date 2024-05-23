@@ -1,9 +1,10 @@
 +++
-title = 'A Fresh Start'
+title = 'A fresh start'
 date = 2024-05-22T16:09:26+01:00
-tags = ['first']
+tags = ['personal']
 description = 'Welcome to my new blog!'
-categories = ['blog']
+categories = ['Personal']
+toc = true
 +++
 
 Alright, let's do this one more time. Hello! I'm Kieran, and this is my blog. I had a blog before, hosted on this same domain, but I decided to start fresh. I've learned a lot since I started that blog, and I wanted to start anew with a fresh perspective. So, here we are. Let's talk about what you can expect from this blog.
