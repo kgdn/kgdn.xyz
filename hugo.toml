@@ -2,7 +2,7 @@ baseURL = "https://risotto.joeroe.io"
 theme = "risotto"
 title = "kgdn.xyz"
 author = "Kieran Gordon"
-copyright = "© [Kieran Gordon](https://kgdn.xyz) 2024"
+copyright = "© [Kieran Gordon](https://kgdn.xyz) 2024 - Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 paginate = 3
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
@@ -62,12 +62,6 @@ url = "https://www.linkedin.com/in/kieran-gordon-80829b258"
     name = "now"
     url = "/now/"
     weight = 3
-
-[[menu.main]]
-
-    name = "rss"
-    url = "/index.xml"
-    weight = 4
 
 [taxonomies] # used to define custom taxonomies, which can be used to categorize content
 tag = "tags"
