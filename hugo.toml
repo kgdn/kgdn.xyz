@@ -63,6 +63,12 @@ url = "https://www.linkedin.com/in/kieran-gordon-80829b258"
     url = "/now/"
     weight = 3
 
+[[menu.main]]
+
+    name = "rss"
+    url = "/index.xml"
+    weight = 4
+
 [taxonomies] # used to define custom taxonomies, which can be used to categorize content
 tag = "tags"
 category = "categories"
