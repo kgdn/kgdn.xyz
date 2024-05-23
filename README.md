@@ -9,7 +9,7 @@
 [![License: CC-BY-SA-4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://pages.github.com/)
 [![Hugo](https://img.shields.io/badge/Hugo-0.121.2-blue)](https://gohugo.io/)
-[![pages-build-deployment](https://github.com/kgdn/kgdn.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kgdn/kgdn.github.io/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/kgdn/kgdn.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/kgdn/kgdn.github.io/actions/workflows/hugo.yml)
 </div>
 
 Currently available at https://kgdn.xyz
