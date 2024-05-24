@@ -40,7 +40,7 @@ Tailscale allows you to access your devices from anywhere, securely, using a net
 At this point, all I had to do was set up a context for my Raspberry Pi using the Tailscale IP address, and I was able to manage the Docker containers on my Raspberry Pi from my laptop, even when I wasn't on the same network.
 
 ```bash
-docker context create raspberrypi --docker "host=ssh//raspberry.pi.tailscale.ip"
+docker context create raspberrypi --docker "host=ssh://raspberry.pi.tailscale.ip"
 ```
 
 ## Conclusion
