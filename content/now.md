@@ -6,6 +6,4 @@ description = 'What I am up to right now.'
 
 This is a [now page](https://nownownow.com/about) which is a page that tells you what I'm up to right now.
 
-Currently working on improving my dissertation project, Buffet, which is a web application that allows users to test various GNU/Linux distributions in a web browser. The project has already been submitted for assessment, but I'm continuing to work on it to improve the user experience and add new features.
-
-It will be available on GitHub soon, under the permissive and open-source GNU Affero General Public License v3.0, pending grading.
+I received the mark for my dissertation and other modules, and will be graduating from Heriot-Watt University on the 19th of June with a First Class honours degree in BSc. Computer Systems. Shortly after this post goes live, I will be open sourcing Buffet, the project I made as a part of my dissertation.
