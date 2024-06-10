@@ -12,6 +12,7 @@
   {{ if .Params.author }}By {{ .Params.author }}{{ if .Date }}, {{ end }}{{ end
   }} {{ if .Date }}{{ .Date.Format "2006-01-02" }}{{ end }}
 </p>
+<p>{{ .ReadingTime }} min read</p>
 {{ end }} {{ if and (.Params.toc) (.TableOfContents) }}
 <hr />
 On this page: {{ .TableOfContents }} {{ end }} {{ end }}

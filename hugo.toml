@@ -43,6 +43,11 @@ icon = "fa-brands fa-linkedin"
 title = "LinkedIn"
 url = "https://www.linkedin.com/in/kieran-gordon-80829b258"
 
+[[params.socialLinks]]
+icon = "fa-brands fa-hacker-news"
+title = "Hacker News"
+url = "https://news.ycombinator.com/user?id=kgdn"
+
 [menu] # Main menu entries
 
 [[menu.main]]
