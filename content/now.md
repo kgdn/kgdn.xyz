@@ -2,7 +2,6 @@
 title = 'Now'
 date = 2024-07-10T19:56:54+01:00
 description = 'What I am up to right now.'
-draft = true
 +++
 
 This is a [now page](https://nownownow.com/about) which is a page that tells you what I'm up to right now.
