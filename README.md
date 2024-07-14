@@ -1,5 +1,5 @@
 <div id="image" align="center">
-  <img src="static/images/profile.png" alt="Profile Image" width="200" height="200" style="border-radius: 50%">
+  <img src="https://avatars.githubusercontent.com/u/90861032" alt="Profile Image" width="200" height="200" style="border-radius: 50%">
 </div>
 
 <div id="title" align="center">
