@@ -1,7 +1,6 @@
 +++
 title = 'Accessing local Docker containers through Tailscale'
 date = 2024-05-23T16:35:28+01:00
-toc = true
 tags = ["docker", "tailscale", "vpn", "raspberry-pi"]
 description = "How I use Tailscale to access my local Docker containers from anywhere"
 categories = ["Technology"]
